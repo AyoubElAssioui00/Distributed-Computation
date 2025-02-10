@@ -1,0 +1,9 @@
+!pip install datasets
+!pip install matplotlib
+!pip install numpy
+!pip install tqdm
+!pip install torch==1.13.1 torchtext==0.14.1 transformers==4.37.2
+!pip install torchvision
+!python -m spacy download de_core_news_sm
+!python -m spacy download en_core_web_sm
+!pip install evaluate
